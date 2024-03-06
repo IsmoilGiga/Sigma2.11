@@ -1,5 +1,5 @@
 .container {
-    width: 1440px;
+    width: 1200px;
     margin: 0 auto;
 }
 
@@ -60,7 +60,7 @@ header .signup {
 }
 
 .intro .right img{
-  position: absolute; right: -50px;
+  position: absolute; right: -10px; top: 100px;
 }
 
 .path{
@@ -97,7 +97,7 @@ header .signup {
 
 .path .container form input {
     width: 700px;
-    padding: 32px;
+    padding: 20px;
     color: rgba(52, 49, 61, 1);
     font-size: 20px;
     border: none;
@@ -106,11 +106,11 @@ header .signup {
 }
 
 .path .container form button{
-    padding: 32px;
+    padding: 22px;
     border: none;
     border-radius: 10px;
     background: rgba(43, 208, 208, 1);
-    width: 150px;
+    width: 170px;
     color: white;
     display: flex;
     align-items: center;
@@ -151,7 +151,7 @@ footer ul a {
 footer .ul2 {
     list-style: none;
     position: absolute;
-    left: 180px;
+    left: 300px;
     top: 1160px;
 }
 
